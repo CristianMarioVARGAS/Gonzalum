@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://fotografias.larazon.es/clipping/cmsimages02/2023/03/04/D35B197E-A6FF-45D0-90F3-0290B6B0E837/the-undated-picture-shows-the-german-fuehrer-adolf-hitler-hitler-acquired-great-personal-wealth-and-luxurious-lifestyle-masked-from-the-german-public-_98.jpg?crop=1381,777,x0,y0&width=1900&height=1069&optimize=low&format=webply'); /* Reemplaza 'URL_DE_LA_IMAGEN' con la URL de tu imagen */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* La imagen de fondo se fijará mientras se desplaza */
+    color: #ffffff; /* Color de texto para que sea legible en la imagen de fondo */
+}
+
+header {
+    background-color: #0b4a8a3f;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+    background-color: #0057b346;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #0b4a8a3f;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+h1, h2 {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
